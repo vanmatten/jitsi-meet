@@ -1617,6 +1617,8 @@
             "noMainParticipantsTitle": "La riunione non è ancora iniziata.",
             "noVisitorLobby": "Non puoi partecipare se la sala d'attesa è attiva per la riunione.",
             "notAllowedPromotion": "Un partecipante deve autorizzare la tua richiesta prima.",
+            "requestToJoin": "Mano alzata",
+            "requestToJoinDescription": "La tua richiesta è stata inviata ai relatori. Tieni duro!",
             "title": "Sei uno spettatore nella riunione"
         },
         "waitingMessage": "Ti unirai alla riunione quando inizierà!"
